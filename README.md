@@ -1,7 +1,7 @@
 
 # ProcesAI CGP
 
-![Logo de ProcesAI CGP](https://raw.githubusercontent.com/usuario/procesai_cgp/main/logo.png)
+![Logo de ProcesAI CGP](https://raw.githubusercontent.com/bladealex9848/ProcesAI_CGP/main/logo.png)
 
 ## Descripción
 ProcesAI CGP es una aplicación web desarrollada con Streamlit y la API de OpenAI, diseñada para proporcionar información y responder consultas relacionadas con el Código General del Proceso y la Teoría General del Proceso en Colombia. Esta herramienta es ideal para profesionales y estudiantes del derecho procesal colombiano.
